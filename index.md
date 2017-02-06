@@ -1,6 +1,6 @@
 ---
 layout: index
-title: "我分"
+title: "笔记"
 ---
 
 # {{ site.title }}  
