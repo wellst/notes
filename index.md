@@ -8,5 +8,5 @@ title: "笔记"
 {{ site.description }}
 
 {% for page in site.posts %}
-- [{{ page.title }}]({{ page.url }})
+- [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
 {% endfor %}
